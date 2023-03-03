@@ -9,5 +9,4 @@ make Assignment1
 ./Assignment1
 ``
 #### 4. Read the Assignment_01.pdf for clarification of deliverables and program capabilities!
-
-
+#### 5. For this project, I was given starter code which I built upon based on the Assignment_01 instructions. 
